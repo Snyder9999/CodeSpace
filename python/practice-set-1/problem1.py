@@ -1,0 +1,1 @@
+print( ''' interseption in the seperate wave in a separate way ''' )
